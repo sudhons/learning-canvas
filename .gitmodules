@@ -1,0 +1,4 @@
+[submodule "clock"]
+	path = clock
+	url = ./clock
+	branch = master
